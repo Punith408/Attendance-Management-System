@@ -52,7 +52,8 @@ table{
     width:100%;
 }
 th {
-  background-color: #cce299;
+ 
+  background-color: #cdb4f7;
   color: rgb(0, 0, 0);
 }
 .table td, .table th{
